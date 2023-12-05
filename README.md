@@ -1,4 +1,4 @@
-# AppVeterinaria
+# AppVeterinaria con Base de Datos
 Trabajo Final CodoACodo
 
 Aplicación de consola que simulara un “Sistema de gestión de pacientes de una veterinaria”
